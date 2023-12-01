@@ -14,3 +14,9 @@ The project revolves around exploring high-frequency options trading strategies 
 2. Select a predetermined number of options with the highest implied volatility (or other relevant metrics).
 3. Implement trading strategies, including longing one group of options and shorting the other, as well as more advanced portfolio optimization techniques.
 4. Evaluate the performance of the developed strategies against standard options trading approaches, such as longing or shorting calls or puts.
+
+## Data
+
+- Data for this project will be obtained from Refinitiv and the Bloomberg Terminal, with assistance from Edward Loeser in the Hanlon Lab. The dataset will include listed SPY options and their prices, both calls and puts, for different strike prices and expiry dates in five-minute intervals over a one-month time period.
+- Key metrics, including option greeks, implied volatility (if not already provided), and intrinsic and extrinsic values, will be calculated from the obtained data.
+- Additional data for testing the model's performance during periods of extreme volatility, such as the 2010 Flash Crash, will be collected separately.
