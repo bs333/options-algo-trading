@@ -5,3 +5,6 @@ This GitHub repository contains the code and documentation for a project focused
 ## Project Idea
 
 ### Overview
+
+The project revolves around exploring high-frequency options trading strategies and utilizing portfolio optimization techniques to potentially generate positive returns. The primary idea is to select a set of options from a larger investment universe based on specific criteria, such as implied volatility, and then apply various trading strategies to assess their effectiveness.
+
