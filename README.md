@@ -37,3 +37,11 @@ We anticipate the following outcomes from this project:
 
 - Our trading strategies will likely outperform the benchmark (simply longing the stock over one month) due to the use of advanced techniques.
 - The strategies may also outperform standard options trading strategies, such as longing or shorting calls, puts, or various combinations like spreads, straddles, and strangles.
+
+## Useful Links
+
+For additional information on algorithmic options trading strategies, you can refer to this [Medium article](https://medium.com/@foolproofoptions/unleash-the-power-of-algorithms-algo-strategies-for-options-trading-38e352ddd607).
+
+For any inquiries or collaboration opportunities, please feel free to reach out to the project contributors.
+
+Thank you for your interest in our Options Trading Strategy project! We look forward to sharing our findings and insights with the GitHub community.
