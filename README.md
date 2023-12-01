@@ -31,3 +31,9 @@ The project revolves around exploring high-frequency options trading strategies 
 4. **Benchmark Comparison**: Compare the results against benchmark strategies and traditional options trading approaches.
 Documentation and Reporting: Create comprehensive documentation and reports outlining the project's methodology, findings, and conclusions.
 
+## Expected Outcome
+
+We anticipate the following outcomes from this project:
+
+- Our trading strategies will likely outperform the benchmark (simply longing the stock over one month) due to the use of advanced techniques.
+- The strategies may also outperform standard options trading strategies, such as longing or shorting calls, puts, or various combinations like spreads, straddles, and strangles.
